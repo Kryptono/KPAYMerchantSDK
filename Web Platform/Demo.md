@@ -1,4 +1,8 @@
 
+* Full demo
+https://payment.kryptono.exchange/static/iphone.html
+
+
 * Live example on https://codepen.io 
 
 https://codepen.io/kryptono/pen/RebLvy?editors=1010*
