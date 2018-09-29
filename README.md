@@ -1,8 +1,14 @@
 # Folder Structure
 
 * Folder `iOS Platform`
-    - File `KPAYMerchant.framework` : official framework file.
-    - Folder `Sample` : contains sample xCode project.
+    - Folder `Swift 4.1`: framework for project written in Swift 4.1
+        + File `KPAYMerchant.framework` : official framework file written in Swift 4.1.
+        + Folder `Sample` : contains sample xCode project which has swift 4.1 compiler.
+    - Folder `Swift 4.2`: framework for project written in Swift 4.2
+        + File `KPAYMerchant.framework` : official framework file written in Swift 4.2.
+        + Folder `Sample` : contains sample xCode project which has swift 4.2 compiler.
+    - Folder `ObjC`: framework for project written in Objective C
+        + File `KPAYMerchant.framework` : official framework file.
 
 * Folder `Web Platform`
     - File `SDK_URL.md` : official URL for SDK.

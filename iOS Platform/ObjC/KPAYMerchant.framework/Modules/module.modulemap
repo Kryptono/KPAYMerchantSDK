@@ -1,0 +1,11 @@
+framework module KPAYMerchant {
+  umbrella header "KPAYMerchant.h"
+
+  export *
+  module * { export * }
+}
+
+module KPAYMerchant.Swift {
+    header "KPAYMerchant-Swift.h"
+    requires objc
+}
